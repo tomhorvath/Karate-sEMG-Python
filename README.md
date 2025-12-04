@@ -1,2 +1,2 @@
-# Karate---sEMG---Python
+# Karate-sEMG-Python
 sEMG data processing
